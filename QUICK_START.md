@@ -14,15 +14,15 @@
 
    ```
    Application name: Alili Tech CMS
-   Homepage URL: https://alili.tech
-   Authorization callback URL: https://alili.tech/admin/
+   Homepage URL: https://time-friend.com
+   Authorization callback URL: https://time-friend.com/admin/
    ```
 
    **关于 Authorization callback URL 的说明：**
    - 这是 GitHub OAuth 授权完成后，GitHub 重定向回你网站的地址
    - 必须与 Decap CMS 的入口地址完全一致
    - 你的 CMS 入口在 `static/admin/index.html`，所以访问路径是 `/admin/`
-   - 完整 URL 就是：`https://alili.tech/admin/`
+   - 完整 URL 就是：`https://time-friend.com/admin/`
    - ⚠️ 注意：末尾的斜杠 `/` 很重要，必须包含
 
 4. 点击 **"Register application"**
@@ -38,7 +38,7 @@ backend:
   name: github
   repo: 0x1428571429/alili.tech
   branch: master
-  base_url: https://alili.tech
+  base_url: https://time-friend.com
   auth_type: pkce
   client_id: 你的-Client-ID-粘贴在这里  # 👈 在这里粘贴步骤 1 获得的 Client ID
 ```
@@ -52,13 +52,13 @@ git commit -m "Add GitHub OAuth client_id for Decap CMS"
 git push origin master
 ```
 
-GitHub Actions 会自动部署，等待 2-3 分钟后访问：**https://alili.tech/admin/**
+GitHub Actions 会自动部署，等待 2-3 分钟后访问：**https://time-friend.com/admin/**
 
 ---
 
 ## ✅ 验证是否成功
 
-1. 访问：https://alili.tech/admin/
+1. 访问：https://time-friend.com/admin/
 2. 应该看到 "Login with GitHub" 按钮
 3. 点击登录，授权后即可看到 CMS 界面
 
@@ -68,7 +68,7 @@ GitHub Actions 会自动部署，等待 2-3 分钟后访问：**https://alili.te
 
 - **创建 OAuth App**: https://github.com/settings/developers
 - **查看已创建的 OAuth Apps**: https://github.com/settings/developers/oauth_apps
-- **CMS 访问地址**: https://alili.tech/admin/
+- **CMS 访问地址**: https://time-friend.com/admin/
 - **GitHub 仓库**: https://github.com/0x1428571429/alili.tech
 
 ---

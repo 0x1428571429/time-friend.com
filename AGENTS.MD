@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**alili.tech** is a personal blog website built with Hugo static site generator. It's a front-end engineer's technical blog focusing on web development, featuring articles on micro-frontend, Taro, Node.js, Angular, React, and various front-end technologies.
+**time-friend.com** is a personal blog website built with Hugo static site generator. It's a front-end engineer's technical blog focusing on web development, featuring articles on micro-frontend, Taro, Node.js, Angular, React, and various front-end technologies.
 
-- **Site URL**: https://alili.tech/
+- **Site URL**: https://time-friend.com/
 - **Repository**: https://github.com/Num142857/alili.tech
 - **Author**: Fan (Front-end Engineer)
 - **Location**: Hangzhou, China
@@ -33,7 +33,7 @@
 ## Project Structure
 
 ```
-alili.tech/
+time-friend.com/
 ├── archetypes/          # Hugo content templates
 ├── backup/              # Backup of old articles
 │   ├── Reprint/        # Republished articles by date
@@ -148,7 +148,7 @@ node oss.js
 ### Hugo Configuration (`config.yml`)
 
 **Key Settings:**
-- **Base URL**: https://alili.tech/
+- **Base URL**: https://time-friend.com/
 - **Language**: Chinese (zh)
 - **Theme**: hugo-cactus-dark
 - **RSS**: Disabled
@@ -267,7 +267,7 @@ The site uses the `hugo-cactus-dark` theme located in `themes/hugo-cactus-dark/`
 
 - **Email**: incomparable9527@foxmail.com
 - **GitHub**: https://github.com/Num142857
-- **Blog**: https://alili.tech
+- **Blog**: https://time-friend.com
 - **WeChat Public Account**: Alili丶前端大爆炸
 
 ---

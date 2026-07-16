@@ -44,7 +44,7 @@ function AddDomain() {
   // Add necessary parameters for the interface you want to call on the new object,
   // Each interface is different, please check official documentation for details
   params.Action = "AddDomain";
-  params.DomainName = "alili.tech";
+  params.DomainName = "time-friend.com";
   params.GroupId = "2223";
 
   // Add timestamp

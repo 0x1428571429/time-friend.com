@@ -233,4 +233,4 @@ umi的插件机制真的很优秀,为了让umi也可以接入到single-spa的微
 
 # 相关系列文章
 
-https://alili.tech/tags/microfrontend/
+https://time-friend.com/tags/microfrontend/

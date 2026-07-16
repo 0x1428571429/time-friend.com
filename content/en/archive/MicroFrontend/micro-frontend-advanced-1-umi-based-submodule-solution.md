@@ -218,5 +218,5 @@ Please follow subsequent series articles.
 
 # Related Series Articles
 
-https://alili.tech/tags/microfrontend/
+https://time-friend.com/tags/microfrontend/
 

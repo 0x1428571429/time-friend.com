@@ -24,7 +24,7 @@ date: 2018-10-24 21:32:05
 ```
 baidu_url_submit:
   count: 1000 ## 提交最新的一个链接
-  host: alili.tech ## 在百度站长平台中注册的域名
+  host: time-friend.com ## 在百度站长平台中注册的域名
   token: xxxxx ## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
   xz_appid: 'xxxxxx' ## 你的熊掌号 appid

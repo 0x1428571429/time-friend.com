@@ -1,35 +1,35 @@
-<h1 align="center">Hi, I'm <a href="https://alili.tech/">{F.A.N}</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://time-friend.com/">{F.A.N}</a>!</h1>
 <h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 <p align="center">
-  <strong><a href="https://alili.tech">博客</a></strong> |
+  <strong><a href="https://time-friend.com">博客</a></strong> |
   <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong> |
   <strong><a href="https://juejin.im/user/606586147454599">掘金</a></strong>  |
-  <strong><a href="https://alili.tech/about/">About</a></strong>  
+  <strong><a href="https://time-friend.com/about/">About</a></strong>  
 </p>
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Num142857/count.svg" /></a>
+<a href="https://time-friend.com"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Num142857/count.svg" /></a>
 
-## [Welcome To Hello Alili](https://alili.tech)
+## [Welcome To Hello Alili](https://time-friend.com)
 
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+<a href="https://time-friend.com"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-- 👨🏻‍💻 [微前端系列](https://alili.tech/tags/microfrontend/)
-- 👩🏻‍💻 [Taro 系列](https://alili.tech/tags/taro/)
-- 👨🏻‍💻 [树莓派系列](https://alili.tech/tags/raspberry-pi/)
-- 👩🏻‍💻 [Nodejs 系列](https://alili.tech/tags/nodejs/)
-- 👨🏻‍💻 [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 👩🏻‍💻 [数学笔记](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
-- 👨🏻‍💻 [Puppeteer 系列](https://alili.tech/tags/puppeteer/)
-- 👩🏻‍💻 [Javascript 相关](https://alili.tech/tags/javascript/)
-- 👨🏻‍💻 [Mac 系列](https://alili.tech/tags/mac/)
-- 👩🏻‍💻 [Angular 相关](https://alili.tech/tags/angular/)
+- 👨🏻‍💻 [微前端系列](https://time-friend.com/tags/microfrontend/)
+- 👩🏻‍💻 [Taro 系列](https://time-friend.com/tags/taro/)
+- 👨🏻‍💻 [树莓派系列](https://time-friend.com/tags/raspberry-pi/)
+- 👩🏻‍💻 [Nodejs 系列](https://time-friend.com/tags/nodejs/)
+- 👨🏻‍💻 [持续集成系列](https://time-friend.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
+- 👩🏻‍💻 [数学笔记](https://time-friend.com/tags/%E6%95%B0%E5%AD%A6/)
+- 👨🏻‍💻 [Puppeteer 系列](https://time-friend.com/tags/puppeteer/)
+- 👩🏻‍💻 [Javascript 相关](https://time-friend.com/tags/javascript/)
+- 👨🏻‍💻 [Mac 系列](https://time-friend.com/tags/mac/)
+- 👩🏻‍💻 [Angular 相关](https://time-friend.com/tags/angular/)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=time-friend.com&url=https%3a%2f%2ftime-friend.com)](https://time-friend.com)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)

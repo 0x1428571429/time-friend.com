@@ -46,7 +46,7 @@ npm install hexo-baidu-url-submit --save
 ```
 baidu_url_submit:
   count: 10 # 提交最新的链接数
-  host: alili.tech # 在百度站长平台中注册的域名,虽然官方推荐要带有 www, 但可以不带.
+  host: time-friend.com # 在百度站长平台中注册的域名,虽然官方推荐要带有 www, 但可以不带.
   token: your_token ## 请注意这是您的秘钥， 请不要发布在公众仓库里!
   path: baidu_urls.txt # 文本文档的地址,新链接会保存在此文本文档里
 ```

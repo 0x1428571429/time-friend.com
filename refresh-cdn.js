@@ -17,7 +17,7 @@ const clientConfig = {
 
 const client = new CdnClient(clientConfig);
 
-const domain = process.env.CDN_DOMAIN || "alili.tech";
+const domain = process.env.CDN_DOMAIN || "time-friend.com";
 
 async function refreshCache() {
   try {

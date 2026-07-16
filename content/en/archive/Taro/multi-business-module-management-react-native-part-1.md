@@ -43,7 +43,7 @@ I mentioned in a previous article that all our module dependencies are unified a
 
 If interested, you can click to view:
 
-[Taro Cross-Platform Development - Dependency Management](https://alili.tech/archive/h8gasmt9u5c/)
+[Taro Cross-Platform Development - Dependency Management](https://time-friend.com/archive/h8gasmt9u5c/)
 
 So my main project dependencies are consistent with business module dependencies.
 

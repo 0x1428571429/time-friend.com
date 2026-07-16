@@ -14,7 +14,7 @@ Today I'll introduce one method, hoping it helps everyone.
 
 ## Module Loader
 
-Do you remember my previous module loader, https://alili.tech/archive/1a60cede/
+Do you remember my previous module loader, https://time-friend.com/archive/1a60cede/
 
 We just need to encapsulate the original module loader into an npm package.
 
@@ -230,7 +230,7 @@ Don't forget to modify proxy configuration, to directly get all project location
 All key points of front-end microservices are written today.
 After more than half a year of thinking and exploration, for the self-questioning and answering in September last year:
 
-[Micro-Frontend Solution 1 - Thinking](http://alili.tech/archive/ea599f7c/)
+[Micro-Frontend Solution 1 - Thinking](http://time-friend.com/archive/ea599f7c/)
 We will face the following problems:
 
 * How do we implement rendering multiple technology stacks in one page?
@@ -246,5 +246,5 @@ Now all answers have been obtained.
 
 # Related Series Articles
 
-https://alili.tech/tags/microfrontend/
+https://time-friend.com/tags/microfrontend/
 

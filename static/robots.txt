@@ -11,5 +11,5 @@ Disallow: /about
 
 Allow: /archive/
 
-Sitemap: https://alili.tech/sitemap.xml
-Sitemap: https://alili.tech/sitemap/index.html
+Sitemap: https://time-friend.com/sitemap.xml
+Sitemap: https://time-friend.com/sitemap/index.html

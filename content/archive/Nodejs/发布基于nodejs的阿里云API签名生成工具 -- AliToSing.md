@@ -44,7 +44,7 @@ function AddDomain() {
   //在新的对象上添加你想调用的该接口必要参数,
   //每个接口都不一样,具体请查阅官方文档
   params.Action = "AddDomain";
-  params.DomainName = "alili.tech";
+  params.DomainName = "time-friend.com";
   params.GroupId = "2223";
 
   //添加时间戳

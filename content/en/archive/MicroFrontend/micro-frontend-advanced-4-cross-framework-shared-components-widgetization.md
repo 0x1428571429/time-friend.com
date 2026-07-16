@@ -10,7 +10,7 @@ In micro-frontend, we can let sub-modules use different framework technology sta
 
 The answer is no, micro-frontend boundaries can be further broadened.
 
-The previous micro-frontend article https://alili.tech/archive/qh7x5i5szfh/ introduced how to call React components between sub-modules with the same technology stack.
+The previous micro-frontend article https://time-friend.com/archive/qh7x5i5szfh/ introduced how to call React components between sub-modules with the same technology stack.
 
 What we're talking about today is how sub-modules between different technology stacks call components from different technology stacks.
 
@@ -82,5 +82,5 @@ Micro-frontend application boundaries should be able to expand wider, can develo
 
 # Related Series Articles
 
-https://alili.tech/tags/microfrontend/
+https://time-friend.com/tags/microfrontend/
 

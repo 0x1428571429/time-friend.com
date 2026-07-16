@@ -40,7 +40,7 @@ We need to collect all dependencies. When business modules are packaged, if a lo
 Because our main project and business project dependency versions are highly unified.
 So dependency package paths under node_modules are completely consistent.
 
-[Taro Cross-Platform Development - Dependency Management](https://alili.tech/archive/h8gasmt9u5c/)
+[Taro Cross-Platform Development - Dependency Management](https://time-friend.com/archive/h8gasmt9u5c/)
 
 Main project metro configuration file example:
 ```js

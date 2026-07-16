@@ -143,5 +143,5 @@ Micro-frontend has very high playability. And there are more ways to play that h
 
 # Related Series Articles
 
-https://alili.tech/tags/microfrontend/
+https://time-friend.com/tags/microfrontend/
 

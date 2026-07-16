@@ -7,7 +7,7 @@ date: 2016-09-04 11:46:35
 ---
 
 预览:
-[Canvas简单粒子效果预览](http://alili.tech/examples/canvas/1.html)
+[Canvas简单粒子效果预览](http://time-friend.com/examples/canvas/1.html)
 
 
 ```html

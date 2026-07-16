@@ -6,7 +6,7 @@
 
 ### 工作流程
 
-1. 用户访问 `https://alili.tech/admin/`
+1. 用户访问 `https://time-friend.com/admin/`
 2. 点击 "Login with GitHub"
 3. 跳转到 GitHub 授权页面
 4. 用户授权后，GitHub 会重定向回你的网站
@@ -21,13 +21,13 @@ static/admin/index.html
 
 Hugo 会将 `static/` 目录下的文件直接复制到网站根目录，所以：
 - 文件路径：`static/admin/index.html`
-- 访问 URL：`https://alili.tech/admin/` 或 `https://alili.tech/admin/index.html`
+- 访问 URL：`https://time-friend.com/admin/` 或 `https://time-friend.com/admin/index.html`
 
 ## 正确的配置值
 
 ### 生产环境（正式网站）
 ```
-https://alili.tech/admin/
+https://time-friend.com/admin/
 ```
 
 ### 本地开发环境（可选）
@@ -40,19 +40,19 @@ http://localhost:1313/admin/
 
 ### ❌ 错误示例
 ```
-https://alili.tech/admin          # 缺少末尾斜杠
-https://alili.tech/               # 不是 CMS 入口
-https://alili.tech/admin/index.html  # 虽然可以工作，但不推荐
+https://time-friend.com/admin          # 缺少末尾斜杠
+https://time-friend.com/               # 不是 CMS 入口
+https://time-friend.com/admin/index.html  # 虽然可以工作，但不推荐
 ```
 
 ### ✅ 正确示例
 ```
-https://alili.tech/admin/
+https://time-friend.com/admin/
 ```
 
 ## 如何验证配置是否正确？
 
-1. 创建 OAuth App 后，访问：`https://alili.tech/admin/`
+1. 创建 OAuth App 后，访问：`https://time-friend.com/admin/`
 2. 点击 "Login with GitHub"
 3. 如果授权后能正常跳转回 CMS 界面，说明配置正确
 4. 如果出现 "redirect_uri_mismatch" 错误，说明回调 URL 配置错误

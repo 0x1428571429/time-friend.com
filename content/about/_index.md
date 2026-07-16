@@ -6,7 +6,7 @@ hidden: true
 
 # About This Blog
 
-Welcome to **alili.tech**, a technical blog focused on front-end development and web technologies.
+Welcome to **time-friend.com**, a technical blog focused on front-end development and web technologies.
 
 ## Blog Introduction
 
@@ -49,7 +49,7 @@ The blog is built with **Hugo** static site generator and features a clean, mode
 
 <!-- # 微信公众号 -->
 
-<!-- ![微信公众号](https://alili.tech/qr_tips.png) -->
+<!-- ![微信公众号](https://time-friend.com/qr_tips.png) -->
 
 <!-- # FAQ
 ## 博客是基于什么做的?
