@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到 Be Your Time Friend
+title: 欢迎
 type: slide
 weight: 1
 ---

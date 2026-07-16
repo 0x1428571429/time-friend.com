@@ -1,5 +1,5 @@
 ---
-title: Keep Learning, Keep Growing
+title: Growth
 type: slide
 weight: 3
 cover: https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800

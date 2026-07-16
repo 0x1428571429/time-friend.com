@@ -1,5 +1,5 @@
 ---
-title: Explore Topics
+title: Topics
 type: slide
 weight: 2
 ---

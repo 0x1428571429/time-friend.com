@@ -1,5 +1,5 @@
 ---
-title: Welcome to Be Your Time Friend
+title: Welcome
 type: slide
 weight: 1
 ---
