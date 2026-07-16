@@ -9,7 +9,7 @@
 </p>
 <a href="https://time-friend.com"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Num142857/count.svg" /></a>
 
-## [Welcome To Hello Alili](https://time-friend.com)
+## [Be Your Time Friend](https://time-friend.com)
 
 <a href="https://time-friend.com"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 

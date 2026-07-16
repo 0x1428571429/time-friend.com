@@ -8,10 +8,10 @@ languages:
     weight: 1
     languageName: 中文
     contentDir: content
-    title: Hello Alili
+    title: Be Your Time Friend
     params:
       Author: 0x1428571429
-      subtitle: Hello Alili | Front-end Engineer - WEB BANG! BANG!! BANG!!!
+      subtitle: Be Your Time Friend | Front-end Engineer - WEB BANG! BANG!! BANG!!!
       description: "Keep learning, keep blogging. Life goals, recent plans, today's tasks."
       keywords: [Hello Alili,Front-end Engineer,WEB BANG BANG BANG,Front-end,Front-end Blog,Web Development Blog,Front-end Modularization,Front-end Engineering,Front-end Data Monitoring,Performance Optimization,Web Development,Front-end,JavaScript,HTML5,CSS,Micro Frontend,Raspberry Pi,Front-end Development,Blockchain,Network,MongoDB,Vue.js,Angular.js,Node.js]
       customize:
@@ -42,10 +42,10 @@ languages:
     weight: 2
     languageName: English
     contentDir: content/en
-    title: Hello Alili
+    title: Be Your Time Friend
     params:
       Author: 0x1428571429
-      subtitle: Hello Alili | Front-end Engineer - WEB BANG! BANG!! BANG!!!
+      subtitle: Be Your Time Friend | Front-end Engineer - WEB BANG! BANG!! BANG!!!
       description: "Keep learning, keep blogging. Life goals, recent plans, today's tasks."
       keywords: [Hello Alili,Front-end Engineer,WEB BANG BANG BANG,Front-end,Front-end Blog,Web Development Blog,Front-end Modularization,Front-end Engineering,Front-end Data Monitoring,Performance Optimization,Web Development,Front-end,JavaScript,HTML5,CSS,Micro Frontend,Raspberry Pi,Front-end Development,Blockchain,Network,MongoDB,Vue.js,Angular.js,Node.js]
       customize:
