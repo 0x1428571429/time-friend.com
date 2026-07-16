@@ -25,7 +25,6 @@
   "devDependencies": {
     "gray-matter": "^4.0.3",
     "gulp": "^5.0.1",
-    "gulp-sync": "^0.1.4",
     "openai": "^6.9.1",
     "workbox-build": "^7.4.1"
   },

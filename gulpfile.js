@@ -4,7 +4,7 @@ const gulp = require("gulp");
 const htmlmin = require('gulp-htmlmin');
 const shell = require('gulp-shell');
 const workbox = require('workbox-build');
-const gulpsync = require('gulp-sync')(gulp);
+
 
 gulp.task('minify', () => {
     return gulp.src('public/**/*.html')
@@ -101,10 +101,10 @@ gulp.task('sendMessage', async () => {
 });
 
 
-gulp.task("default", gulpsync.sync([
+gulp.task("default", gulp.series(
     'getTodayData',
     'build',
     "generate-service-worker",
     'minify',
     'sendMessage'
-]));
+));
